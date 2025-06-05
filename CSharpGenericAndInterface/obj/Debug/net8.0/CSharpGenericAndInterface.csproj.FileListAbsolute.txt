@@ -1,0 +1,14 @@
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\bin\Debug\net8.0\CSharpGenericAndInterface.exe
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\bin\Debug\net8.0\CSharpGenericAndInterface.deps.json
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\bin\Debug\net8.0\CSharpGenericAndInterface.runtimeconfig.json
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\bin\Debug\net8.0\CSharpGenericAndInterface.dll
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\bin\Debug\net8.0\CSharpGenericAndInterface.pdb
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\obj\Debug\net8.0\CSharpGenericAndInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\obj\Debug\net8.0\CSharpGenericAndInterface.AssemblyInfoInputs.cache
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\obj\Debug\net8.0\CSharpGenericAndInterface.AssemblyInfo.cs
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\obj\Debug\net8.0\CSharpGenericAndInterface.csproj.CoreCompileInputs.cache
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\obj\Debug\net8.0\CSharpGenericAndInterface.dll
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\obj\Debug\net8.0\refint\CSharpGenericAndInterface.dll
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\obj\Debug\net8.0\CSharpGenericAndInterface.pdb
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\obj\Debug\net8.0\CSharpGenericAndInterface.genruntimeconfig.cache
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\obj\Debug\net8.0\ref\CSharpGenericAndInterface.dll
