@@ -12,3 +12,4 @@ C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface
 C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\obj\Debug\net8.0\CSharpGenericAndInterface.pdb
 C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\obj\Debug\net8.0\CSharpGenericAndInterface.genruntimeconfig.cache
 C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\obj\Debug\net8.0\ref\CSharpGenericAndInterface.dll
+C:\Users\songbo\source\repos\CSharpGenericAndInterface\CSharpGenericAndInterface\obj\Debug\net8.0\CSharpGenericAndInterface.sourcelink.json
