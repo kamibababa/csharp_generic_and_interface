@@ -16,6 +16,9 @@ namespace CSharpGenericAndInterface
             array.Add(new Student { Name = "Bob", Score = 70 });
             array.Add(new Student { Name = "Charlie", Score = 85 });
 
+
+            Console.WriteLine(array.Contains(null));
+
             Console.WriteLine("Before sort:");
             array.PrintAll();
 

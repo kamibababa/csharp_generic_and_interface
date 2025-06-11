@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace CSharpGenericAndInterface
 {
 
-    public class MyArray<T> where T : IMyComparable<T>
+    public class MyArray<T> where T : IMyComparable<T>,IMyEquatable<T>
     {
         private T[] _items;
         private int _count;
@@ -43,6 +43,18 @@ namespace CSharpGenericAndInterface
             {
                 Console.WriteLine(_items[i]);
             }
+        }
+
+        public bool Contains(T t)
+        {
+            for (int i = 0; i < _count; i++)
+            {
+                if (_items[i].Equals(t))
+                {
+                    return true;
+                }
+            }
+            return false;
         }
 
         public void Sort()
