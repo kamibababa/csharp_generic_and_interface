@@ -11,6 +11,33 @@ namespace CSharpGenericAndInterface
         private int[] _items;
         private int _count;
 
+        public int this[int index]
+        {
+            get
+            {
+                if(index<0 || index >= _count)
+                {
+                    throw new IndexOutOfRangeException();
+                }
+                else
+                {
+                    return _items[index];
+                }
+            }
+
+            set
+            {
+                if (index < 0 || index >= _count)
+                {
+                    throw new IndexOutOfRangeException();
+                }
+                else
+                {
+                    _items[index] = value;
+                }
+            }
+        }
+
         public MyIntArray(int capacity = 10)
         {
             _items = new int[capacity];
